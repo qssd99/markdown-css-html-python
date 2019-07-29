@@ -7,7 +7,7 @@ p {
   padding-top: 10px;
   padding-bottom: 10px;
   background-color: white;
-  padding: 30px;
+  padding: 30px !important;
 }
 
 body > *:first-child {
